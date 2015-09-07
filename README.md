@@ -3,4 +3,4 @@ Was used by Stavropol State University 2002-2004+
 (has withheld numerous attacks from students trying to cheat ;) )
 
 pteacher - teacher's console  
-pstudent - student's client
+ptest - student's client
